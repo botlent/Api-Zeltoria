@@ -1,7 +1,7 @@
 {
-  "name": "zeapi",
+  "name": "zelpi",
   "version": "4.0.0",
-  "description": "My Rest Api Project",
+  "description": "ct",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
